@@ -1,0 +1,8 @@
+# ignore target
+/target/
+
+# ignore .idea
+*.idea
+
+# ignore learn_to_automate_api.iml
+learn_to_automate_api.iml
